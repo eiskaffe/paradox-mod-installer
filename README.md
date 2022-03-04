@@ -6,3 +6,4 @@ Download the python file or paste the raw code into a .py file in to the folder 
 ```
 $ python3 stellaris-mod-installer.py
 ```
+Note that the program will set the path to the current folder (where the .py file is located) and will set all the descriptors path by that.
