@@ -6,6 +6,9 @@ Tested to work with
  - Stellaris
  - Crusader Kings III
 
+## Requirements
+Python 3.10 or later
+
 ## Installation
 Download the python file or paste the raw code into a .py file in to the folder where all your Paradox .zip files are located, and launch the script using
 ```
